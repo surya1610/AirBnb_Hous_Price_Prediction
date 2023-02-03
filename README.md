@@ -1,1 +1,4 @@
-# Surya_Data_606
+# UMBC DATA SCIENCE Capstone project
+*Author:* Surya Narayana Reddy Chintacunta 
+
+*Semester:* Spring
