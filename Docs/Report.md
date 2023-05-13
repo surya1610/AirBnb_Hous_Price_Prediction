@@ -2,6 +2,8 @@
 - Author : Surya Narayana Reddy Chintacunta
 - Semester : Spring 2023
 - Campus ID : TO87136
+- Youtube Recording : 
+- PPT Presentation : 
 
 # Project Title : Airbnb House Price Prediction
 # Problem Statement
@@ -68,7 +70,7 @@ Data Cleaning was done in multiple steps:
 - After the analysis some of the selected features for modeling are "'host_identity_verified','neighbourhood group', 'instant_bookable', 'cancellation_policy', 'room type','Construction year','minimum nights','number of reviews', 'reviews per month', 'review rate number', 'calculated host listings count','availability 365','price', 'service fee'".
 - Data is splitted among traning and testing sets on the ratio of 70:30.
 
-# Prediction Modelling
+# Predictive Modelling
 ### Below selected models has been used for Predictive modelling:
 ### Linear Regression
 - Here we trained Linear regression model which is giving us an accuracy of 98.8%.
@@ -91,4 +93,5 @@ Data Cleaning was done in multiple steps:
 - “Random Forest Regressor”  Model has given an Accuracy of 99.7% for the test data predictions of the “Price” which is the highest among our tests.
 - With the help of this project, I have learned to utilize different python libraries and use them to handle huge data and getting insights from it.
 - While working on this project, I understood that feature engineering and feature selection are one of the most important steps in order to train the predictive models which result in highest accuracies.
+
 
