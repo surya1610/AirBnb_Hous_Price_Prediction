@@ -36,6 +36,9 @@ Data Cleaning was done in multiple steps:
 - Filled missing values in some features using "Mean" and "Median" method.
 - Removed Duplicate records from the datasets.
 # Exploratory Data Analysis
+Here we can see that hosts with unconfirmed identity are more in number.
+<img width="555" alt="image" src="https://github.com/surya1610/Surya_Data_606/assets/53937677/c07551af-6b03-4b43-a781-b6669a325871">
+
 <img width="354" alt="image" src="https://github.com/surya1610/Surya_Data_606/assets/53937677/f7af5f51-8d49-4159-b77a-211aefbb8c55">
 
 
