@@ -1,7 +1,7 @@
 # DATA_606 - Capstone Project
-Author : Surya Narayana Reddy Chintacunta
-Semester : Spring 2023
-Campus ID : TO87136
+- Author : Surya Narayana Reddy Chintacunta
+- Semester : Spring 2023
+- Campus ID : TO87136
 
 # Project Title : Airbnb House Price Prediction
 # Problem Statement
