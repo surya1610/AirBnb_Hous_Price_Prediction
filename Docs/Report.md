@@ -3,7 +3,7 @@
 - Semester : Spring 2023
 - Campus ID : TO87136
 - Youtube Recording : 
-- PPT Presentation : 
+- PPT Presentation : https://github.com/surya1610/Surya_Data_606/blob/main/Docs/Final_presentation_606.pptx
 
 # Project Title : Airbnb House Price Prediction
 # Problem Statement
