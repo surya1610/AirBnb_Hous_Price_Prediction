@@ -36,11 +36,27 @@ Data Cleaning was done in multiple steps:
 - Filled missing values in some features using "Mean" and "Median" method.
 - Removed Duplicate records from the datasets.
 # Exploratory Data Analysis
-Here we can see that hosts with unconfirmed identity are more in number.
-<img width="555" alt="image" src="https://github.com/surya1610/Surya_Data_606/assets/53937677/c07551af-6b03-4b43-a781-b6669a325871">
+- Here we can see that hosts with unconfirmed identity are more in number.
 
 <img width="354" alt="image" src="https://github.com/surya1610/Surya_Data_606/assets/53937677/f7af5f51-8d49-4159-b77a-211aefbb8c55">
 
+- This plot illustrates that Manhattan has the highest number of neighbourhood groups in the entire data.
+
+<img width="383" alt="image" src="https://github.com/surya1610/Surya_Data_606/assets/53937677/238f3a26-dbf6-48a4-9f41-4921427fb226">
+
+- This plot illustrates that the most available groups are from 0 to 3 months.
+
+<img width="418" alt="image" src="https://github.com/surya1610/Surya_Data_606/assets/53937677/8cb22a76-a492-4114-9c7d-a076510b285f">
+
+- This graph gives an insight that “Glen Oaks” has the highest number of listings in the neigbhourhood.
+
+- Where, “south beach” has the lowest count.
+
+<img width="528" alt="image" src="https://github.com/surya1610/Surya_Data_606/assets/53937677/39a15f30-c74b-4dde-99cc-436646a85108">
+
+- The above chat shows that more than 7700 listings are registered in “Bedford-Stuyvesant”.
+
+<img width="664" alt="image" src="https://github.com/surya1610/Surya_Data_606/assets/53937677/1baefe7b-8003-4840-bb92-605d35584b8a">
 
 
 
