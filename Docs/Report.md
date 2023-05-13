@@ -72,7 +72,7 @@ Data Cleaning was done in multiple steps:
 ### Below selected models has been used for Predictive modelling:
 ### Linear Regression
 - Here we trained Linear regression model which is giving us an accuracy of 98.8%.
-- 
+
 ### Decision tree
 - Here we trained Decision tree model which is giving us an accuracy of 99.5%.
 
