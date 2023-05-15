@@ -2,7 +2,7 @@
 - Author : Surya Narayana Reddy Chintacunta
 - Semester : Spring 2023
 - Campus ID : TO87136
-- Youtube Recording : 
+- Youtube Recording : https://youtu.be/ifhGX_z2bOA
 - PPT Presentation : https://github.com/surya1610/Surya_Data_606/blob/main/Docs/Final_presentation_606.pptx
 
 # Project Title : Airbnb House Price Prediction
