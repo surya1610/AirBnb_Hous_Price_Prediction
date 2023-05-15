@@ -15,7 +15,7 @@ In the folder "Docs" under the name "Report.md"
 # Initial EDA :
 - In the folder "src" under the name "Draft_proposal_eda.ipynb"
 - In the folder "src" under the name "Final_proposal_eda.ipynb"
-- In the folder "src" under the name "airbnb_price_prediction.ipynb" which is the final project code file.
+- In the folder "src" under the name "airbnb_price_prediction_final.ipynb" which is the final project code file.
 
 # Updated code files :
 - All the updated code files are located in the "src" folder.
