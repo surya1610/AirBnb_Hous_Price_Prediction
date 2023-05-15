@@ -1,7 +1,7 @@
 # UMBC DATA SCIENCE Capstone project
 *Author:* Surya Narayana Reddy Chintacunta 
 
-*Semester:* Spring
+*Semester:* Spring 2023
 
 # Draft Proposal :
 In the folder "Docs" under the name "Draft_proposal.md"
