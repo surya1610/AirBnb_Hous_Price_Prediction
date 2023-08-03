@@ -3,6 +3,9 @@
 
 *Semester:* Spring 2023
 
+*Project Title:* AirBnb House Price Prediction
+
+
 # Draft Proposal :
 In the folder "Docs" under the name "Draft_proposal.md"
 
